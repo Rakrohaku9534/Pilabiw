@@ -15,7 +15,7 @@ global.owner = [
 global.mods = []
 global.prems = []
 // Info
-global.nomorwa = '18158698288' //Ganti
+global.nomorwa = '6285786539008' //Ganti
 global.packname = '© Sticker by'
 global.author = 'F.A BOTZ MD'
 global.namebot = 'F.A BOTZ MD'
